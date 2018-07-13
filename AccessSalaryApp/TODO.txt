@@ -1,0 +1,9 @@
+-Add Attendance Form
+-Add SalaryCode for clculate salary 
+-Add WorkPlace Form for every company
+-Add Group Table --->(Title,WorkplaceId)
+-Add Bank Table--->(Id,Title)
+-Add TaxGroups Table--->(Id,Titile,Rate,TaxExemptAmount)
+-Add Cities Table(Id,Title)
+-Add InsuranceGroups Table--->(Id,Title,Rate)
+
