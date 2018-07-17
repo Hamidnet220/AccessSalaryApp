@@ -1,6 +1,10 @@
+-Add MissionDays Propety to Attendace table
 -Add SalaryCode for clculate salary 
 -Add WorkPlace Form for every company
 -Add Group Table --->(Title,WorkplaceId)
+	-MainGroups(OK)
+		-SubGroups
+			-SubGroupItems
 -Add Bank Table--->(Id,Title)
 -Add TaxGroups Table--->(Id,Titile,Rate,TaxExemptAmount)
 -Add Cities Table(Id,Title)
