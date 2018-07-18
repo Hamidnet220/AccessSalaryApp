@@ -5,6 +5,7 @@
 	-MainGroups(OK)
 		-SubGroups
 			-SubGroupItems
+-Add FinantialGroups
 -Add Bank Table--->(Id,Title)
 -Add TaxGroups Table--->(Id,Titile,Rate,TaxExemptAmount)
 -Add Cities Table(Id,Title)
